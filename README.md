@@ -11,7 +11,7 @@ This script allows you to run commands translated from plain text descriptions u
 
 1. Clone this repository:
 
-``git clone https://github.com/yourusername/chatgpt-command-translator.git``
+``git clone https://github.com/IkeM-L/GPTDo``
 
 
 2. Change to the repository directory:
