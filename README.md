@@ -21,7 +21,7 @@ This script allows you to run commands translated from plain text descriptions u
 
 3. Make the script executable:
 
-``chmod +x chatgpt_cmd.zsh``
+``chmod +x gptdo``
 
 4. Set your OpenAI API key as an environment variable:
 
